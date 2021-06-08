@@ -1,7 +1,7 @@
 Hi, I'm Shoya Iwanami
 
 - [website](https://shoyaiwanami.com)
-- [twitter](https://twitter.com/iwanami13){. target="_blank"}
+- [twitter](https://twitter.com/iwanami13){: target="_blank"}
 
 <!--
 - 👋 Hi, I’m @iwanaminami

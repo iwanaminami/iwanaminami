@@ -1,4 +1,4 @@
-Hi, I'm Shoya Iwanami
+## Hi, I'm Shoya Iwanami
 
 - [website](https://shoyaiwanami.com)
 - [twitter](https://twitter.com/iwanami13)
@@ -11,5 +11,5 @@ Hi, I'm Shoya Iwanami
 - 📫 How to reach me ...
 -->
 
-Repositories for classes  
+### Repositories for classes  
 [https://github.com/stars/iwanaminami/lists/class](https://github.com/stars/iwanaminami/lists/class)
